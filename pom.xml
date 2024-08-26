@@ -22,7 +22,7 @@
         <spring-cloud-gateway.version>2.2.3.RELEASE</spring-cloud-gateway.version>
         <mybatis-plus.version>3.3.2</mybatis-plus.version>
         <lombok.version>1.18.12</lombok.version>
-        <swagger2.version>2.9.2</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
     </properties>
 <!--    引入子模块-->
     <modules>
